@@ -5,9 +5,6 @@
 <h1 align="center">
 	Link
 </h1>
-<p align="center">
-	https://transcendence.transcendons.fr/
-</p>
 
 
 ## Description
